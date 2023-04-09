@@ -1,8 +1,8 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "talent-hub-backend",
   "private": true,
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "Talent Hub Backend",
   "license": "MIT",
   "scripts": {
     "build": "nest build",
